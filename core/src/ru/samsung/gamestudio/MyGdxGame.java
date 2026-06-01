@@ -7,8 +7,7 @@ import ru.samsung.gamestudio.screens.ScreenGame;
 import ru.samsung.gamestudio.screens.ScreenMenu;
 import ru.samsung.gamestudio.screens.ScreenRestart;
 
-public class MyGdxGame extends Game {
-    public SpriteBatch batch;
+public class MyGdxGame extends Game {git init
     public OrthographicCamera camera;
 
     public static final int SCR_WIDTH = 1280;
